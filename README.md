@@ -1,2 +1,2 @@
 # Notebook
-[University of Arizona - Mathematical Modelling] (https://www.math.arizona.edu/~lega/485-585/mp_e.html)
+[University of Arizona - Mathematical Modelling](https://www.math.arizona.edu/~lega/485-585/mp_e.html)
